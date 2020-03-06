@@ -15,6 +15,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/cy/pom.xml" />
+        <option value="$PROJECT_DIR$/fsj1/pom.xml" />
       </set>
     </option>
   </component>
